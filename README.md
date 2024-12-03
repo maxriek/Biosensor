@@ -14,7 +14,7 @@ The scripts involved in the processing of the 3D motility data (obtained with an
 ---
 
 The script developed for the calculation of the p-values and t-values (based on Welch's t-test) is also provided in this repository (p_t_value_tests.py). For non-parametric statistical tests, a script for the calculation 
-of the p-values according to the Kruskal-Wallis H Test is provided.
+of the p-values according to the Kruskal-Wallis H Test is provided (kruskal_wallis_statistic.py).
 
 ---
 
